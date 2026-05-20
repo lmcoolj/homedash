@@ -6,6 +6,8 @@
 	<string>HomeDash</string>
 	<key>CFBundleName</key>
 	<string>HomeDash</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>HomeDash uses Face ID so only you can unlock the app.</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSExceptionDomains</key>
